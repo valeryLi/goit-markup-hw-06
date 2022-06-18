@@ -677,6 +677,7 @@ img{
     line-height: 1.88;
     letter-spacing: 0.06em;
     cursor: pointer;
+
     color: var(--auxiliary-light-color);
     background-color: var(--accent-color);
     
